@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35931.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Agworld_Integration", "Agworld_Integration.pyproj", "{9C4BB18E-80C2-48D6-ABCE-02627A9F7EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C4BB18E-80C2-48D6-ABCE-02627A9F7EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4BB18E-80C2-48D6-ABCE-02627A9F7EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85B7E546-5A8F-452F-8152-809338569942}
+	EndGlobalSection
+EndGlobal
